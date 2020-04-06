@@ -22,9 +22,7 @@ function cadastrandoInfo(e){
 
     document.getElementById('formulario').reset()
     infoCadastramento()
-    e.preventDefault()
-
-    
+    e.preventDefault() 
 }
 
 function infoCadastramento(){
